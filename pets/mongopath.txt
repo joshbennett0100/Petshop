@@ -1,0 +1,15 @@
+windows machine:
+    path to mongodb server:
+        C:\Users\Josh` Bennett\Documents\mongo\bin\mongod --dbpath=C:\Users\Josh` Bennett\Projects\Petshop\Petshop\pets\data --nojournal
+    
+    path to mongo shell:
+        C:\Users\Josh` Bennett\Documents\mongo\bin\mongo
+
+
+
+mac machine:
+    path to mongodb server:
+        "<path-to-mongo-bin>/mongod --dbpath=<path-to-your-data-directory> --nojournal"
+
+    path to mongo shell:
+        "<path-to-mongo-bin>/mongo"
